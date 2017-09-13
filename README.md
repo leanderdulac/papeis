@@ -5,5 +5,5 @@
 As definições dos papéis que temos no Pagar.me
 <br />
 
-# Tecnologia
-## [Facilitador](facilitador.md)
+## Tecnologia
+### [Facilitador](facilitador.md)
