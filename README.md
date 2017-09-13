@@ -5,4 +5,4 @@
 As definições dos papéis que temos no Pagar.me
 <br />
 
-# 1. [Facilitador](facilitador.md)
+# [Facilitador](facilitador.md)
