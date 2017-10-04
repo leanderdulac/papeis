@@ -1,7 +1,7 @@
 # Facilitador #
 Nerd que tem paixão em lidar com gente. Conhece as dores das pessoas desenvolvedoras, pois já esteve nesse papel. Sabe integrar pessoas, resolver problemas e gosta de experimentar. Aplica toda sua nerdice ao motivar os times a entregarem resultados incríveis, fazendo com que todos tenham voz ativa, estejam engajados e sejam mais fortes.
 
-Ajuda o time a produzir produtos que importam no real, complexo e incerto mundo, adicionando sentido ao trabalho das pessoas.
+Ajuda o time a criar produtos que importam no real, complexo e incerto mundo, adicionando sentido ao trabalho das pessoas.
 
 ## É ##
 * Professor
