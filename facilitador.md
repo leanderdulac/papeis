@@ -9,7 +9,6 @@ Ajuda o time a criar produtos que importam no real, complexo e incerto mundo, ad
 * Facilitador
 * Mentor
 * Praticante Lean / Agile
-* Solucionador de problemas
 * Condutor de colaboração
 
 ## Não é ##
@@ -30,7 +29,6 @@ Ajuda o time a criar produtos que importam no real, complexo e incerto mundo, ad
 * Questiona as pessoas
 * Motiva e inspira pessoas
 * Empodera o time
-* Contrata, promove e demite 
 * Promove aprendizado
 * Promove a melhoria contínua
 * Ajuda o time a metrificar seu trabalho
